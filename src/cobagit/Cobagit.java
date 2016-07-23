@@ -21,6 +21,7 @@ public class Cobagit extends JFrame {
     public static void main(String[] args) {
         System.out.println("second init");
         System.out.println("third init");
+        System.out.println("fourth init");
         EventQueue.invokeLater(new Runnable() {
 
             @Override
